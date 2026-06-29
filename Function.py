@@ -4,11 +4,11 @@ def printEachChar(str):
         print(char)
 
 # Function Calling / function execuation / function invocation
-printEachChar("aman")
-print("-----------")
-printEachChar("Deepankar")
-print("-----------")
-printEachChar("Vijay Kumar")
+# printEachChar("aman")
+# print("-----------")
+# printEachChar("Deepankar")
+# print("-----------")
+# printEachChar("Vijay Kumar")
 
 # addition of two digit
 
@@ -16,8 +16,8 @@ def sum(num1, num2):
     result = num1 + num2
     print(result)
 
-sum(4, 6)
-sum(14, 16)
+# sum(4, 6)
+# sum(14, 16)
 
 def converText():
     inputText = str(input("Enter something : "))
@@ -34,4 +34,4 @@ def converText():
     else:
         print("Select right choice")
 
-converText()
+# converText()
